@@ -1,7 +1,5 @@
 # KitchenWithMe 产品文档索引
 
-> 文档来源：已从 `/Users/blizhan/data/code/KitchenWithMe/Product/docs` 同步到当前开发仓库，并统一收敛到 `docs/prd/`。
-
 ## 文档结构
 
 - `docs/prd/core/`：产品核心定义（设计基线、PRD、IA 与页面规格）
